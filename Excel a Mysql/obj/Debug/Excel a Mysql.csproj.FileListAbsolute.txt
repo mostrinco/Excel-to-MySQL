@@ -1,0 +1,8 @@
+D:\PROYECTOS DE SOFTWARE\Proyectos C#\2017\Excel a Mysql JCMM\Excel a Mysql\bin\Debug\Excel a Mysql.exe.config
+D:\PROYECTOS DE SOFTWARE\Proyectos C#\2017\Excel a Mysql JCMM\Excel a Mysql\bin\Debug\Excel a Mysql.exe
+D:\PROYECTOS DE SOFTWARE\Proyectos C#\2017\Excel a Mysql JCMM\Excel a Mysql\bin\Debug\Excel a Mysql.pdb
+D:\PROYECTOS DE SOFTWARE\Proyectos C#\2017\Excel a Mysql JCMM\Excel a Mysql\obj\Debug\Excel_a_Mysql_JCMM.Form1.resources
+D:\PROYECTOS DE SOFTWARE\Proyectos C#\2017\Excel a Mysql JCMM\Excel a Mysql\obj\Debug\Excel_a_Mysql.Properties.Resources.resources
+D:\PROYECTOS DE SOFTWARE\Proyectos C#\2017\Excel a Mysql JCMM\Excel a Mysql\obj\Debug\Excel a Mysql.csproj.GenerateResource.Cache
+D:\PROYECTOS DE SOFTWARE\Proyectos C#\2017\Excel a Mysql JCMM\Excel a Mysql\obj\Debug\Excel a Mysql.exe
+D:\PROYECTOS DE SOFTWARE\Proyectos C#\2017\Excel a Mysql JCMM\Excel a Mysql\obj\Debug\Excel a Mysql.pdb

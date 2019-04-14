@@ -1,0 +1,13 @@
+C:\Users\Juan Carlos\Desktop\C EXCEL\Excel a Mysql JCMM\Excel a Mysql JCMM\bin\Debug\Excel a Mysql JCMM.exe.config
+C:\Users\Juan Carlos\Desktop\C EXCEL\Excel a Mysql JCMM\Excel a Mysql JCMM\bin\Debug\Excel a Mysql JCMM.exe
+C:\Users\Juan Carlos\Desktop\C EXCEL\Excel a Mysql JCMM\Excel a Mysql JCMM\bin\Debug\Excel a Mysql JCMM.pdb
+C:\Users\Juan Carlos\Desktop\C EXCEL\Excel a Mysql JCMM\Excel a Mysql JCMM\obj\Debug\Excel a Mysql JCMM.csprojResolveAssemblyReference.cache
+C:\Users\Juan Carlos\Desktop\C EXCEL\Excel a Mysql JCMM\Excel a Mysql JCMM\obj\Debug\Excel_a_Mysql_JCMM.Form1.resources
+C:\Users\Juan Carlos\Desktop\C EXCEL\Excel a Mysql JCMM\Excel a Mysql JCMM\obj\Debug\Excel_a_Mysql_JCMM.Properties.Resources.resources
+C:\Users\Juan Carlos\Desktop\C EXCEL\Excel a Mysql JCMM\Excel a Mysql JCMM\obj\Debug\Excel a Mysql JCMM.csproj.GenerateResource.Cache
+C:\Users\Juan Carlos\Desktop\C EXCEL\Excel a Mysql JCMM\Excel a Mysql JCMM\obj\Debug\Excel a Mysql JCMM.exe
+C:\Users\Juan Carlos\Desktop\C EXCEL\Excel a Mysql JCMM\Excel a Mysql JCMM\obj\Debug\Excel a Mysql JCMM.pdb
+D:\PROYECTOS DE SOFTWARE\Proyectos C#\2017\Excel a Mysql JCMM\Excel a Mysql JCMM\bin\Debug\Excel a Mysql JCMM.exe.config
+D:\PROYECTOS DE SOFTWARE\Proyectos C#\2017\Excel a Mysql JCMM\Excel a Mysql JCMM\obj\Debug\Excel a Mysql JCMM.exe
+D:\PROYECTOS DE SOFTWARE\Proyectos C#\2017\Excel a Mysql JCMM\Excel a Mysql JCMM\obj\Debug\Excel a Mysql JCMM.pdb
+D:\PROYECTOS DE SOFTWARE\Proyectos C#\2017\Excel a Mysql JCMM\Excel a Mysql JCMM\bin\Debug\Excel a Mysql.exe.config
